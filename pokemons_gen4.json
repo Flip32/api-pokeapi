@@ -1,0 +1,2938 @@
+[
+  {
+    "id": 387,
+    "name": "turtwig",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/387.png",
+    "weight": 102,
+    "height": 4,
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "overgrow",
+      "shell-armor"
+    ],
+    "evolution": [
+      {
+        "id": 387,
+        "order": 1,
+        "name": "turtwig"
+      },
+      {
+        "id": 388,
+        "order": 2,
+        "name": "grotle"
+      },
+      {
+        "id": 389,
+        "order": 3,
+        "name": "torterra"
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "name": "grotle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/388.png",
+    "weight": 970,
+    "height": 11,
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "overgrow",
+      "shell-armor"
+    ],
+    "evolution": [
+      {
+        "id": 387,
+        "order": 1,
+        "name": "turtwig"
+      },
+      {
+        "id": 388,
+        "order": 2,
+        "name": "grotle"
+      },
+      {
+        "id": 389,
+        "order": 3,
+        "name": "torterra"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "name": "torterra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/389.png",
+    "weight": 3100,
+    "height": 22,
+    "types": [
+      "grass",
+      "ground"
+    ],
+    "abilities": [
+      "overgrow",
+      "shell-armor"
+    ],
+    "evolution": [
+      {
+        "id": 387,
+        "order": 1,
+        "name": "turtwig"
+      },
+      {
+        "id": 388,
+        "order": 2,
+        "name": "grotle"
+      },
+      {
+        "id": 389,
+        "order": 3,
+        "name": "torterra"
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "name": "chimchar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/390.png",
+    "weight": 62,
+    "height": 5,
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "blaze",
+      "iron-fist"
+    ],
+    "evolution": [
+      {
+        "id": 390,
+        "order": 1,
+        "name": "chimchar"
+      },
+      {
+        "id": 391,
+        "order": 2,
+        "name": "monferno"
+      },
+      {
+        "id": 392,
+        "order": 3,
+        "name": "infernape"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "name": "monferno",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/391.png",
+    "weight": 220,
+    "height": 9,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "abilities": [
+      "blaze",
+      "iron-fist"
+    ],
+    "evolution": [
+      {
+        "id": 390,
+        "order": 1,
+        "name": "chimchar"
+      },
+      {
+        "id": 391,
+        "order": 2,
+        "name": "monferno"
+      },
+      {
+        "id": 392,
+        "order": 3,
+        "name": "infernape"
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "name": "infernape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/392.png",
+    "weight": 550,
+    "height": 12,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "abilities": [
+      "blaze",
+      "iron-fist"
+    ],
+    "evolution": [
+      {
+        "id": 390,
+        "order": 1,
+        "name": "chimchar"
+      },
+      {
+        "id": 391,
+        "order": 2,
+        "name": "monferno"
+      },
+      {
+        "id": 392,
+        "order": 3,
+        "name": "infernape"
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "name": "piplup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/393.png",
+    "weight": 52,
+    "height": 4,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "torrent",
+      "defiant"
+    ],
+    "evolution": [
+      {
+        "id": 393,
+        "order": 1,
+        "name": "piplup"
+      },
+      {
+        "id": 394,
+        "order": 2,
+        "name": "prinplup"
+      },
+      {
+        "id": 395,
+        "order": 3,
+        "name": "empoleon"
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "name": "prinplup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/394.png",
+    "weight": 230,
+    "height": 8,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "torrent",
+      "defiant"
+    ],
+    "evolution": [
+      {
+        "id": 393,
+        "order": 1,
+        "name": "piplup"
+      },
+      {
+        "id": 394,
+        "order": 2,
+        "name": "prinplup"
+      },
+      {
+        "id": 395,
+        "order": 3,
+        "name": "empoleon"
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "name": "empoleon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/395.png",
+    "weight": 845,
+    "height": 17,
+    "types": [
+      "water",
+      "steel"
+    ],
+    "abilities": [
+      "torrent",
+      "defiant"
+    ],
+    "evolution": [
+      {
+        "id": 393,
+        "order": 1,
+        "name": "piplup"
+      },
+      {
+        "id": 394,
+        "order": 2,
+        "name": "prinplup"
+      },
+      {
+        "id": 395,
+        "order": 3,
+        "name": "empoleon"
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "name": "starly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/396.png",
+    "weight": 20,
+    "height": 3,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "reckless"
+    ],
+    "evolution": [
+      {
+        "id": 396,
+        "order": 1,
+        "name": "starly"
+      },
+      {
+        "id": 397,
+        "order": 2,
+        "name": "staravia"
+      },
+      {
+        "id": 398,
+        "order": 3,
+        "name": "staraptor"
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "name": "staravia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/397.png",
+    "weight": 155,
+    "height": 6,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "intimidate",
+      "reckless"
+    ],
+    "evolution": [
+      {
+        "id": 396,
+        "order": 1,
+        "name": "starly"
+      },
+      {
+        "id": 397,
+        "order": 2,
+        "name": "staravia"
+      },
+      {
+        "id": 398,
+        "order": 3,
+        "name": "staraptor"
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "name": "staraptor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/398.png",
+    "weight": 249,
+    "height": 12,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "intimidate",
+      "reckless"
+    ],
+    "evolution": [
+      {
+        "id": 396,
+        "order": 1,
+        "name": "starly"
+      },
+      {
+        "id": 397,
+        "order": 2,
+        "name": "staravia"
+      },
+      {
+        "id": 398,
+        "order": 3,
+        "name": "staraptor"
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "name": "bidoof",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/399.png",
+    "weight": 200,
+    "height": 5,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "simple",
+      "unaware",
+      "moody"
+    ],
+    "evolution": [
+      {
+        "id": 399,
+        "order": 1,
+        "name": "bidoof"
+      },
+      {
+        "id": 400,
+        "order": 2,
+        "name": "bibarel"
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "name": "bibarel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/400.png",
+    "weight": 315,
+    "height": 10,
+    "types": [
+      "normal",
+      "water"
+    ],
+    "abilities": [
+      "simple",
+      "unaware",
+      "moody"
+    ],
+    "evolution": [
+      {
+        "id": 399,
+        "order": 1,
+        "name": "bidoof"
+      },
+      {
+        "id": 400,
+        "order": 2,
+        "name": "bibarel"
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "name": "kricketot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/401.png",
+    "weight": 22,
+    "height": 3,
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "shed-skin",
+      "run-away"
+    ],
+    "evolution": [
+      {
+        "id": 401,
+        "order": 1,
+        "name": "kricketot"
+      },
+      {
+        "id": 402,
+        "order": 2,
+        "name": "kricketune"
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "name": "kricketune",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/402.png",
+    "weight": 255,
+    "height": 10,
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "swarm",
+      "technician"
+    ],
+    "evolution": [
+      {
+        "id": 401,
+        "order": 1,
+        "name": "kricketot"
+      },
+      {
+        "id": 402,
+        "order": 2,
+        "name": "kricketune"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "name": "shinx",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/403.png",
+    "weight": 95,
+    "height": 5,
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "rivalry",
+      "intimidate",
+      "guts"
+    ],
+    "evolution": [
+      {
+        "id": 403,
+        "order": 1,
+        "name": "shinx"
+      },
+      {
+        "id": 404,
+        "order": 2,
+        "name": "luxio"
+      },
+      {
+        "id": 405,
+        "order": 3,
+        "name": "luxray"
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "name": "luxio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/404.png",
+    "weight": 305,
+    "height": 9,
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "rivalry",
+      "intimidate",
+      "guts"
+    ],
+    "evolution": [
+      {
+        "id": 403,
+        "order": 1,
+        "name": "shinx"
+      },
+      {
+        "id": 404,
+        "order": 2,
+        "name": "luxio"
+      },
+      {
+        "id": 405,
+        "order": 3,
+        "name": "luxray"
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "name": "luxray",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/405.png",
+    "weight": 420,
+    "height": 14,
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "rivalry",
+      "intimidate",
+      "guts"
+    ],
+    "evolution": [
+      {
+        "id": 403,
+        "order": 1,
+        "name": "shinx"
+      },
+      {
+        "id": 404,
+        "order": 2,
+        "name": "luxio"
+      },
+      {
+        "id": 405,
+        "order": 3,
+        "name": "luxray"
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "name": "budew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/406.png",
+    "weight": 12,
+    "height": 2,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "natural-cure",
+      "poison-point",
+      "leaf-guard"
+    ],
+    "evolution": [
+      {
+        "id": 406,
+        "order": 1,
+        "name": "budew"
+      },
+      {
+        "id": 315,
+        "order": 2,
+        "name": "roselia"
+      },
+      {
+        "id": 407,
+        "order": 3,
+        "name": "roserade"
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "name": "roserade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/407.png",
+    "weight": 145,
+    "height": 9,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "abilities": [
+      "natural-cure",
+      "poison-point",
+      "technician"
+    ],
+    "evolution": [
+      {
+        "id": 406,
+        "order": 1,
+        "name": "budew"
+      },
+      {
+        "id": 315,
+        "order": 2,
+        "name": "roselia"
+      },
+      {
+        "id": 407,
+        "order": 3,
+        "name": "roserade"
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "name": "cranidos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/408.png",
+    "weight": 315,
+    "height": 9,
+    "types": [
+      "rock"
+    ],
+    "abilities": [
+      "mold-breaker",
+      "sheer-force"
+    ],
+    "evolution": [
+      {
+        "id": 408,
+        "order": 1,
+        "name": "cranidos"
+      },
+      {
+        "id": 409,
+        "order": 2,
+        "name": "rampardos"
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "name": "rampardos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/409.png",
+    "weight": 1025,
+    "height": 16,
+    "types": [
+      "rock"
+    ],
+    "abilities": [
+      "mold-breaker",
+      "sheer-force"
+    ],
+    "evolution": [
+      {
+        "id": 408,
+        "order": 1,
+        "name": "cranidos"
+      },
+      {
+        "id": 409,
+        "order": 2,
+        "name": "rampardos"
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "name": "shieldon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/410.png",
+    "weight": 570,
+    "height": 5,
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "abilities": [
+      "sturdy",
+      "soundproof"
+    ],
+    "evolution": [
+      {
+        "id": 410,
+        "order": 1,
+        "name": "shieldon"
+      },
+      {
+        "id": 411,
+        "order": 2,
+        "name": "bastiodon"
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "name": "bastiodon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/411.png",
+    "weight": 1495,
+    "height": 13,
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "abilities": [
+      "sturdy",
+      "soundproof"
+    ],
+    "evolution": [
+      {
+        "id": 410,
+        "order": 1,
+        "name": "shieldon"
+      },
+      {
+        "id": 411,
+        "order": 2,
+        "name": "bastiodon"
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "name": "burmy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/412.png",
+    "weight": 34,
+    "height": 2,
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "shed-skin",
+      "overcoat"
+    ],
+    "evolution": [
+      {
+        "id": 412,
+        "order": 1,
+        "name": "burmy"
+      },
+      {
+        "id": 413,
+        "order": 2,
+        "name": "wormadam"
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "name": "wormadam-plant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/413.png",
+    "weight": 65,
+    "height": 5,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "abilities": [
+      "anticipation",
+      "overcoat"
+    ],
+    "evolution": [
+      {
+        "id": 412,
+        "order": 1,
+        "name": "burmy"
+      },
+      {
+        "id": 413,
+        "order": 2,
+        "name": "wormadam"
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "name": "mothim",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/414.png",
+    "weight": 233,
+    "height": 9,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "abilities": [
+      "swarm",
+      "tinted-lens"
+    ],
+    "evolution": [
+      {
+        "id": 412,
+        "order": 1,
+        "name": "burmy"
+      },
+      {
+        "id": 413,
+        "order": 2,
+        "name": "wormadam"
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "name": "combee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/415.png",
+    "weight": 55,
+    "height": 3,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "abilities": [
+      "honey-gather",
+      "hustle"
+    ],
+    "evolution": [
+      {
+        "id": 415,
+        "order": 1,
+        "name": "combee"
+      },
+      {
+        "id": 416,
+        "order": 2,
+        "name": "vespiquen"
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "name": "vespiquen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/416.png",
+    "weight": 385,
+    "height": 12,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "abilities": [
+      "pressure",
+      "unnerve"
+    ],
+    "evolution": [
+      {
+        "id": 415,
+        "order": 1,
+        "name": "combee"
+      },
+      {
+        "id": 416,
+        "order": 2,
+        "name": "vespiquen"
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "name": "pachirisu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/417.png",
+    "weight": 39,
+    "height": 4,
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "run-away",
+      "pickup",
+      "volt-absorb"
+    ],
+    "evolution": [
+      {
+        "id": 417,
+        "order": 1,
+        "name": "pachirisu"
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "name": "buizel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/418.png",
+    "weight": 295,
+    "height": 7,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "water-veil"
+    ],
+    "evolution": [
+      {
+        "id": 418,
+        "order": 1,
+        "name": "buizel"
+      },
+      {
+        "id": 419,
+        "order": 2,
+        "name": "floatzel"
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "name": "floatzel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/419.png",
+    "weight": 335,
+    "height": 11,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "water-veil"
+    ],
+    "evolution": [
+      {
+        "id": 418,
+        "order": 1,
+        "name": "buizel"
+      },
+      {
+        "id": 419,
+        "order": 2,
+        "name": "floatzel"
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "name": "cherubi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/420.png",
+    "weight": 33,
+    "height": 4,
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "chlorophyll"
+    ],
+    "evolution": [
+      {
+        "id": 420,
+        "order": 1,
+        "name": "cherubi"
+      },
+      {
+        "id": 421,
+        "order": 2,
+        "name": "cherrim"
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "name": "cherrim",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/421.png",
+    "weight": 93,
+    "height": 5,
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "flower-gift"
+    ],
+    "evolution": [
+      {
+        "id": 420,
+        "order": 1,
+        "name": "cherubi"
+      },
+      {
+        "id": 421,
+        "order": 2,
+        "name": "cherrim"
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "name": "shellos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/422.png",
+    "weight": 63,
+    "height": 3,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "sticky-hold",
+      "storm-drain",
+      "sand-force"
+    ],
+    "evolution": [
+      {
+        "id": 422,
+        "order": 1,
+        "name": "shellos"
+      },
+      {
+        "id": 423,
+        "order": 2,
+        "name": "gastrodon"
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "name": "gastrodon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/423.png",
+    "weight": 299,
+    "height": 9,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "abilities": [
+      "sticky-hold",
+      "storm-drain",
+      "sand-force"
+    ],
+    "evolution": [
+      {
+        "id": 422,
+        "order": 1,
+        "name": "shellos"
+      },
+      {
+        "id": 423,
+        "order": 2,
+        "name": "gastrodon"
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "name": "ambipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/424.png",
+    "weight": 203,
+    "height": 12,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "technician",
+      "pickup",
+      "skill-link"
+    ],
+    "evolution": [
+      {
+        "id": 190,
+        "order": 1,
+        "name": "aipom"
+      },
+      {
+        "id": 424,
+        "order": 2,
+        "name": "ambipom"
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "name": "drifloon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/425.png",
+    "weight": 12,
+    "height": 4,
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "abilities": [
+      "aftermath",
+      "unburden",
+      "flare-boost"
+    ],
+    "evolution": [
+      {
+        "id": 425,
+        "order": 1,
+        "name": "drifloon"
+      },
+      {
+        "id": 426,
+        "order": 2,
+        "name": "drifblim"
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "name": "drifblim",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/426.png",
+    "weight": 150,
+    "height": 12,
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "abilities": [
+      "aftermath",
+      "unburden",
+      "flare-boost"
+    ],
+    "evolution": [
+      {
+        "id": 425,
+        "order": 1,
+        "name": "drifloon"
+      },
+      {
+        "id": 426,
+        "order": 2,
+        "name": "drifblim"
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "name": "buneary",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/427.png",
+    "weight": 55,
+    "height": 4,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "run-away",
+      "klutz",
+      "limber"
+    ],
+    "evolution": [
+      {
+        "id": 427,
+        "order": 1,
+        "name": "buneary"
+      },
+      {
+        "id": 428,
+        "order": 2,
+        "name": "lopunny"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "name": "lopunny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/428.png",
+    "weight": 333,
+    "height": 12,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "cute-charm",
+      "klutz",
+      "limber"
+    ],
+    "evolution": [
+      {
+        "id": 427,
+        "order": 1,
+        "name": "buneary"
+      },
+      {
+        "id": 428,
+        "order": 2,
+        "name": "lopunny"
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "name": "mismagius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/429.png",
+    "weight": 44,
+    "height": 9,
+    "types": [
+      "ghost"
+    ],
+    "abilities": [
+      "levitate"
+    ],
+    "evolution": [
+      {
+        "id": 200,
+        "order": 1,
+        "name": "misdreavus"
+      },
+      {
+        "id": 429,
+        "order": 2,
+        "name": "mismagius"
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "name": "honchkrow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/430.png",
+    "weight": 273,
+    "height": 9,
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "abilities": [
+      "insomnia",
+      "super-luck",
+      "moxie"
+    ],
+    "evolution": [
+      {
+        "id": 198,
+        "order": 1,
+        "name": "murkrow"
+      },
+      {
+        "id": 430,
+        "order": 2,
+        "name": "honchkrow"
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "name": "glameow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/431.png",
+    "weight": 39,
+    "height": 5,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "limber",
+      "own-tempo",
+      "keen-eye"
+    ],
+    "evolution": [
+      {
+        "id": 431,
+        "order": 1,
+        "name": "glameow"
+      },
+      {
+        "id": 432,
+        "order": 2,
+        "name": "purugly"
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "name": "purugly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/432.png",
+    "weight": 438,
+    "height": 10,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "thick-fat",
+      "own-tempo",
+      "defiant"
+    ],
+    "evolution": [
+      {
+        "id": 431,
+        "order": 1,
+        "name": "glameow"
+      },
+      {
+        "id": 432,
+        "order": 2,
+        "name": "purugly"
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "name": "chingling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/433.png",
+    "weight": 6,
+    "height": 2,
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "levitate"
+    ],
+    "evolution": [
+      {
+        "id": 433,
+        "order": 1,
+        "name": "chingling"
+      },
+      {
+        "id": 358,
+        "order": 2,
+        "name": "chimecho"
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "name": "stunky",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/434.png",
+    "weight": 192,
+    "height": 4,
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "abilities": [
+      "stench",
+      "aftermath",
+      "keen-eye"
+    ],
+    "evolution": [
+      {
+        "id": 434,
+        "order": 1,
+        "name": "stunky"
+      },
+      {
+        "id": 435,
+        "order": 2,
+        "name": "skuntank"
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "name": "skuntank",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/435.png",
+    "weight": 380,
+    "height": 10,
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "abilities": [
+      "stench",
+      "aftermath",
+      "keen-eye"
+    ],
+    "evolution": [
+      {
+        "id": 434,
+        "order": 1,
+        "name": "stunky"
+      },
+      {
+        "id": 435,
+        "order": 2,
+        "name": "skuntank"
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "name": "bronzor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/436.png",
+    "weight": 605,
+    "height": 5,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "abilities": [
+      "levitate",
+      "heatproof",
+      "heavy-metal"
+    ],
+    "evolution": [
+      {
+        "id": 436,
+        "order": 1,
+        "name": "bronzor"
+      },
+      {
+        "id": 437,
+        "order": 2,
+        "name": "bronzong"
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "name": "bronzong",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/437.png",
+    "weight": 1870,
+    "height": 13,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "abilities": [
+      "levitate",
+      "heatproof",
+      "heavy-metal"
+    ],
+    "evolution": [
+      {
+        "id": 436,
+        "order": 1,
+        "name": "bronzor"
+      },
+      {
+        "id": 437,
+        "order": 2,
+        "name": "bronzong"
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "name": "bonsly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/438.png",
+    "weight": 150,
+    "height": 5,
+    "types": [
+      "rock"
+    ],
+    "abilities": [
+      "sturdy",
+      "rock-head",
+      "rattled"
+    ],
+    "evolution": [
+      {
+        "id": 438,
+        "order": 1,
+        "name": "bonsly"
+      },
+      {
+        "id": 185,
+        "order": 2,
+        "name": "sudowoodo"
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "name": "mime-jr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/439.png",
+    "weight": 130,
+    "height": 6,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "abilities": [
+      "soundproof",
+      "filter",
+      "technician"
+    ],
+    "evolution": [
+      {
+        "id": 439,
+        "order": 1,
+        "name": "mime-jr"
+      },
+      {
+        "id": 122,
+        "order": 2,
+        "name": "mr-mime"
+      },
+      {
+        "id": 866,
+        "order": 3,
+        "name": "mr-rime"
+      }
+    ]
+  },
+  {
+    "id": 440,
+    "name": "happiny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/440.png",
+    "weight": 244,
+    "height": 6,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "natural-cure",
+      "serene-grace",
+      "friend-guard"
+    ],
+    "evolution": [
+      {
+        "id": 440,
+        "order": 1,
+        "name": "happiny"
+      },
+      {
+        "id": 113,
+        "order": 2,
+        "name": "chansey"
+      },
+      {
+        "id": 242,
+        "order": 3,
+        "name": "blissey"
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "name": "chatot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/441.png",
+    "weight": 19,
+    "height": 5,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "keen-eye",
+      "tangled-feet",
+      "big-pecks"
+    ],
+    "evolution": [
+      {
+        "id": 441,
+        "order": 1,
+        "name": "chatot"
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "name": "spiritomb",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/442.png",
+    "weight": 1080,
+    "height": 10,
+    "types": [
+      "ghost",
+      "dark"
+    ],
+    "abilities": [
+      "pressure",
+      "infiltrator"
+    ],
+    "evolution": [
+      {
+        "id": 442,
+        "order": 1,
+        "name": "spiritomb"
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "name": "gible",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/443.png",
+    "weight": 205,
+    "height": 7,
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "abilities": [
+      "sand-veil",
+      "rough-skin"
+    ],
+    "evolution": [
+      {
+        "id": 443,
+        "order": 1,
+        "name": "gible"
+      },
+      {
+        "id": 444,
+        "order": 2,
+        "name": "gabite"
+      },
+      {
+        "id": 445,
+        "order": 3,
+        "name": "garchomp"
+      }
+    ]
+  },
+  {
+    "id": 444,
+    "name": "gabite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/444.png",
+    "weight": 560,
+    "height": 14,
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "abilities": [
+      "sand-veil",
+      "rough-skin"
+    ],
+    "evolution": [
+      {
+        "id": 443,
+        "order": 1,
+        "name": "gible"
+      },
+      {
+        "id": 444,
+        "order": 2,
+        "name": "gabite"
+      },
+      {
+        "id": 445,
+        "order": 3,
+        "name": "garchomp"
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "name": "garchomp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/445.png",
+    "weight": 950,
+    "height": 19,
+    "types": [
+      "dragon",
+      "ground"
+    ],
+    "abilities": [
+      "sand-veil",
+      "rough-skin"
+    ],
+    "evolution": [
+      {
+        "id": 443,
+        "order": 1,
+        "name": "gible"
+      },
+      {
+        "id": 444,
+        "order": 2,
+        "name": "gabite"
+      },
+      {
+        "id": 445,
+        "order": 3,
+        "name": "garchomp"
+      }
+    ]
+  },
+  {
+    "id": 446,
+    "name": "munchlax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/446.png",
+    "weight": 1050,
+    "height": 6,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "pickup",
+      "thick-fat",
+      "gluttony"
+    ],
+    "evolution": [
+      {
+        "id": 446,
+        "order": 1,
+        "name": "munchlax"
+      },
+      {
+        "id": 143,
+        "order": 2,
+        "name": "snorlax"
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "name": "riolu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/447.png",
+    "weight": 202,
+    "height": 7,
+    "types": [
+      "fighting"
+    ],
+    "abilities": [
+      "steadfast",
+      "inner-focus",
+      "prankster"
+    ],
+    "evolution": [
+      {
+        "id": 447,
+        "order": 1,
+        "name": "riolu"
+      },
+      {
+        "id": 448,
+        "order": 2,
+        "name": "lucario"
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "name": "lucario",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/448.png",
+    "weight": 540,
+    "height": 12,
+    "types": [
+      "fighting",
+      "steel"
+    ],
+    "abilities": [
+      "steadfast",
+      "inner-focus",
+      "justified"
+    ],
+    "evolution": [
+      {
+        "id": 447,
+        "order": 1,
+        "name": "riolu"
+      },
+      {
+        "id": 448,
+        "order": 2,
+        "name": "lucario"
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "name": "hippopotas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/449.png",
+    "weight": 495,
+    "height": 8,
+    "types": [
+      "ground"
+    ],
+    "abilities": [
+      "sand-stream",
+      "sand-force"
+    ],
+    "evolution": [
+      {
+        "id": 449,
+        "order": 1,
+        "name": "hippopotas"
+      },
+      {
+        "id": 450,
+        "order": 2,
+        "name": "hippowdon"
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "name": "hippowdon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/450.png",
+    "weight": 3000,
+    "height": 20,
+    "types": [
+      "ground"
+    ],
+    "abilities": [
+      "sand-stream",
+      "sand-force"
+    ],
+    "evolution": [
+      {
+        "id": 449,
+        "order": 1,
+        "name": "hippopotas"
+      },
+      {
+        "id": 450,
+        "order": 2,
+        "name": "hippowdon"
+      }
+    ]
+  },
+  {
+    "id": 451,
+    "name": "skorupi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/451.png",
+    "weight": 120,
+    "height": 8,
+    "types": [
+      "poison",
+      "bug"
+    ],
+    "abilities": [
+      "battle-armor",
+      "sniper",
+      "keen-eye"
+    ],
+    "evolution": [
+      {
+        "id": 451,
+        "order": 1,
+        "name": "skorupi"
+      },
+      {
+        "id": 452,
+        "order": 2,
+        "name": "drapion"
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "name": "drapion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/452.png",
+    "weight": 615,
+    "height": 13,
+    "types": [
+      "poison",
+      "dark"
+    ],
+    "abilities": [
+      "battle-armor",
+      "sniper",
+      "keen-eye"
+    ],
+    "evolution": [
+      {
+        "id": 451,
+        "order": 1,
+        "name": "skorupi"
+      },
+      {
+        "id": 452,
+        "order": 2,
+        "name": "drapion"
+      }
+    ]
+  },
+  {
+    "id": 453,
+    "name": "croagunk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/453.png",
+    "weight": 230,
+    "height": 7,
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "abilities": [
+      "anticipation",
+      "dry-skin",
+      "poison-touch"
+    ],
+    "evolution": [
+      {
+        "id": 453,
+        "order": 1,
+        "name": "croagunk"
+      },
+      {
+        "id": 454,
+        "order": 2,
+        "name": "toxicroak"
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "name": "toxicroak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/454.png",
+    "weight": 444,
+    "height": 13,
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "abilities": [
+      "anticipation",
+      "dry-skin",
+      "poison-touch"
+    ],
+    "evolution": [
+      {
+        "id": 453,
+        "order": 1,
+        "name": "croagunk"
+      },
+      {
+        "id": 454,
+        "order": 2,
+        "name": "toxicroak"
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "name": "carnivine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/455.png",
+    "weight": 270,
+    "height": 14,
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "levitate"
+    ],
+    "evolution": [
+      {
+        "id": 455,
+        "order": 1,
+        "name": "carnivine"
+      }
+    ]
+  },
+  {
+    "id": 456,
+    "name": "finneon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/456.png",
+    "weight": 70,
+    "height": 4,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "storm-drain",
+      "water-veil"
+    ],
+    "evolution": [
+      {
+        "id": 456,
+        "order": 1,
+        "name": "finneon"
+      },
+      {
+        "id": 457,
+        "order": 2,
+        "name": "lumineon"
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "name": "lumineon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/457.png",
+    "weight": 240,
+    "height": 12,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "swift-swim",
+      "storm-drain",
+      "water-veil"
+    ],
+    "evolution": [
+      {
+        "id": 456,
+        "order": 1,
+        "name": "finneon"
+      },
+      {
+        "id": 457,
+        "order": 2,
+        "name": "lumineon"
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "name": "mantyke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/458.png",
+    "weight": 650,
+    "height": 10,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "abilities": [
+      "swift-swim",
+      "water-absorb",
+      "water-veil"
+    ],
+    "evolution": [
+      {
+        "id": 458,
+        "order": 1,
+        "name": "mantyke"
+      },
+      {
+        "id": 226,
+        "order": 2,
+        "name": "mantine"
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "name": "snover",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/459.png",
+    "weight": 505,
+    "height": 10,
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "abilities": [
+      "snow-warning",
+      "soundproof"
+    ],
+    "evolution": [
+      {
+        "id": 459,
+        "order": 1,
+        "name": "snover"
+      },
+      {
+        "id": 460,
+        "order": 2,
+        "name": "abomasnow"
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "name": "abomasnow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/460.png",
+    "weight": 1355,
+    "height": 22,
+    "types": [
+      "grass",
+      "ice"
+    ],
+    "abilities": [
+      "snow-warning",
+      "soundproof"
+    ],
+    "evolution": [
+      {
+        "id": 459,
+        "order": 1,
+        "name": "snover"
+      },
+      {
+        "id": 460,
+        "order": 2,
+        "name": "abomasnow"
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "name": "weavile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/461.png",
+    "weight": 340,
+    "height": 11,
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "abilities": [
+      "pressure",
+      "pickpocket"
+    ],
+    "evolution": [
+      {
+        "id": 215,
+        "order": 1,
+        "name": "sneasel"
+      },
+      {
+        "id": 461,
+        "order": 2,
+        "name": "weavile"
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "name": "magnezone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/462.png",
+    "weight": 1800,
+    "height": 12,
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "abilities": [
+      "magnet-pull",
+      "sturdy",
+      "analytic"
+    ],
+    "evolution": [
+      {
+        "id": 81,
+        "order": 1,
+        "name": "magnemite"
+      },
+      {
+        "id": 82,
+        "order": 2,
+        "name": "magneton"
+      },
+      {
+        "id": 462,
+        "order": 3,
+        "name": "magnezone"
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "name": "lickilicky",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/463.png",
+    "weight": 1400,
+    "height": 17,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "own-tempo",
+      "oblivious",
+      "cloud-nine"
+    ],
+    "evolution": [
+      {
+        "id": 108,
+        "order": 1,
+        "name": "lickitung"
+      },
+      {
+        "id": 463,
+        "order": 2,
+        "name": "lickilicky"
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "name": "rhyperior",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/464.png",
+    "weight": 2828,
+    "height": 24,
+    "types": [
+      "ground",
+      "rock"
+    ],
+    "abilities": [
+      "lightning-rod",
+      "solid-rock",
+      "reckless"
+    ],
+    "evolution": [
+      {
+        "id": 111,
+        "order": 1,
+        "name": "rhyhorn"
+      },
+      {
+        "id": 112,
+        "order": 2,
+        "name": "rhydon"
+      },
+      {
+        "id": 464,
+        "order": 3,
+        "name": "rhyperior"
+      }
+    ]
+  },
+  {
+    "id": 465,
+    "name": "tangrowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/465.png",
+    "weight": 1286,
+    "height": 20,
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "leaf-guard",
+      "regenerator"
+    ],
+    "evolution": [
+      {
+        "id": 114,
+        "order": 1,
+        "name": "tangela"
+      },
+      {
+        "id": 465,
+        "order": 2,
+        "name": "tangrowth"
+      }
+    ]
+  },
+  {
+    "id": 466,
+    "name": "electivire",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/466.png",
+    "weight": 1386,
+    "height": 18,
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "motor-drive",
+      "vital-spirit"
+    ],
+    "evolution": [
+      {
+        "id": 239,
+        "order": 1,
+        "name": "elekid"
+      },
+      {
+        "id": 125,
+        "order": 2,
+        "name": "electabuzz"
+      },
+      {
+        "id": 466,
+        "order": 3,
+        "name": "electivire"
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "name": "magmortar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/467.png",
+    "weight": 680,
+    "height": 16,
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "flame-body",
+      "vital-spirit"
+    ],
+    "evolution": [
+      {
+        "id": 240,
+        "order": 1,
+        "name": "magby"
+      },
+      {
+        "id": 126,
+        "order": 2,
+        "name": "magmar"
+      },
+      {
+        "id": 467,
+        "order": 3,
+        "name": "magmortar"
+      }
+    ]
+  },
+  {
+    "id": 468,
+    "name": "togekiss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/468.png",
+    "weight": 380,
+    "height": 15,
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "abilities": [
+      "hustle",
+      "serene-grace",
+      "super-luck"
+    ],
+    "evolution": [
+      {
+        "id": 175,
+        "order": 1,
+        "name": "togepi"
+      },
+      {
+        "id": 176,
+        "order": 2,
+        "name": "togetic"
+      },
+      {
+        "id": 468,
+        "order": 3,
+        "name": "togekiss"
+      }
+    ]
+  },
+  {
+    "id": 469,
+    "name": "yanmega",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/469.png",
+    "weight": 515,
+    "height": 19,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "abilities": [
+      "speed-boost",
+      "tinted-lens",
+      "frisk"
+    ],
+    "evolution": [
+      {
+        "id": 193,
+        "order": 1,
+        "name": "yanma"
+      },
+      {
+        "id": 469,
+        "order": 2,
+        "name": "yanmega"
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "name": "leafeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/470.png",
+    "weight": 255,
+    "height": 10,
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "leaf-guard",
+      "chlorophyll"
+    ],
+    "evolution": [
+      {
+        "id": 133,
+        "order": 1,
+        "name": "eevee"
+      },
+      {
+        "id": 134,
+        "order": 2,
+        "name": "vaporeon"
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "name": "glaceon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/471.png",
+    "weight": 259,
+    "height": 8,
+    "types": [
+      "ice"
+    ],
+    "abilities": [
+      "snow-cloak",
+      "ice-body"
+    ],
+    "evolution": [
+      {
+        "id": 133,
+        "order": 1,
+        "name": "eevee"
+      },
+      {
+        "id": 134,
+        "order": 2,
+        "name": "vaporeon"
+      }
+    ]
+  },
+  {
+    "id": 472,
+    "name": "gliscor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/472.png",
+    "weight": 425,
+    "height": 20,
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "abilities": [
+      "hyper-cutter",
+      "sand-veil",
+      "poison-heal"
+    ],
+    "evolution": [
+      {
+        "id": 207,
+        "order": 1,
+        "name": "gligar"
+      },
+      {
+        "id": 472,
+        "order": 2,
+        "name": "gliscor"
+      }
+    ]
+  },
+  {
+    "id": 473,
+    "name": "mamoswine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/473.png",
+    "weight": 2910,
+    "height": 25,
+    "types": [
+      "ice",
+      "ground"
+    ],
+    "abilities": [
+      "oblivious",
+      "snow-cloak",
+      "thick-fat"
+    ],
+    "evolution": [
+      {
+        "id": 220,
+        "order": 1,
+        "name": "swinub"
+      },
+      {
+        "id": 221,
+        "order": 2,
+        "name": "piloswine"
+      },
+      {
+        "id": 473,
+        "order": 3,
+        "name": "mamoswine"
+      }
+    ]
+  },
+  {
+    "id": 474,
+    "name": "porygon-z",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/474.png",
+    "weight": 340,
+    "height": 9,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "adaptability",
+      "download",
+      "analytic"
+    ],
+    "evolution": [
+      {
+        "id": 137,
+        "order": 1,
+        "name": "porygon"
+      },
+      {
+        "id": 233,
+        "order": 2,
+        "name": "porygon2"
+      },
+      {
+        "id": 474,
+        "order": 3,
+        "name": "porygon-z"
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "name": "gallade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/475.png",
+    "weight": 520,
+    "height": 16,
+    "types": [
+      "psychic",
+      "fighting"
+    ],
+    "abilities": [
+      "steadfast",
+      "sharpness",
+      "justified"
+    ],
+    "evolution": [
+      {
+        "id": 280,
+        "order": 1,
+        "name": "ralts"
+      },
+      {
+        "id": 281,
+        "order": 2,
+        "name": "kirlia"
+      },
+      {
+        "id": 282,
+        "order": 3,
+        "name": "gardevoir"
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "name": "probopass",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/476.png",
+    "weight": 3400,
+    "height": 14,
+    "types": [
+      "rock",
+      "steel"
+    ],
+    "abilities": [
+      "sturdy",
+      "magnet-pull",
+      "sand-force"
+    ],
+    "evolution": [
+      {
+        "id": 299,
+        "order": 1,
+        "name": "nosepass"
+      },
+      {
+        "id": 476,
+        "order": 2,
+        "name": "probopass"
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "name": "dusknoir",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/477.png",
+    "weight": 1066,
+    "height": 22,
+    "types": [
+      "ghost"
+    ],
+    "abilities": [
+      "pressure",
+      "frisk"
+    ],
+    "evolution": [
+      {
+        "id": 355,
+        "order": 1,
+        "name": "duskull"
+      },
+      {
+        "id": 356,
+        "order": 2,
+        "name": "dusclops"
+      },
+      {
+        "id": 477,
+        "order": 3,
+        "name": "dusknoir"
+      }
+    ]
+  },
+  {
+    "id": 478,
+    "name": "froslass",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/478.png",
+    "weight": 266,
+    "height": 13,
+    "types": [
+      "ice",
+      "ghost"
+    ],
+    "abilities": [
+      "snow-cloak",
+      "cursed-body"
+    ],
+    "evolution": [
+      {
+        "id": 361,
+        "order": 1,
+        "name": "snorunt"
+      },
+      {
+        "id": 362,
+        "order": 2,
+        "name": "glalie"
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "name": "rotom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/479.png",
+    "weight": 3,
+    "height": 3,
+    "types": [
+      "electric",
+      "ghost"
+    ],
+    "abilities": [
+      "levitate"
+    ],
+    "evolution": [
+      {
+        "id": 479,
+        "order": 1,
+        "name": "rotom"
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "name": "uxie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/480.png",
+    "weight": 3,
+    "height": 3,
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "levitate"
+    ],
+    "evolution": [
+      {
+        "id": 480,
+        "order": 1,
+        "name": "uxie"
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "name": "mesprit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/481.png",
+    "weight": 3,
+    "height": 3,
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "levitate"
+    ],
+    "evolution": [
+      {
+        "id": 481,
+        "order": 1,
+        "name": "mesprit"
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "name": "azelf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/482.png",
+    "weight": 3,
+    "height": 3,
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "levitate"
+    ],
+    "evolution": [
+      {
+        "id": 482,
+        "order": 1,
+        "name": "azelf"
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "name": "dialga",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/483.png",
+    "weight": 6830,
+    "height": 54,
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "abilities": [
+      "pressure",
+      "telepathy"
+    ],
+    "evolution": [
+      {
+        "id": 483,
+        "order": 1,
+        "name": "dialga"
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "name": "palkia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/484.png",
+    "weight": 3360,
+    "height": 42,
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "abilities": [
+      "pressure",
+      "telepathy"
+    ],
+    "evolution": [
+      {
+        "id": 484,
+        "order": 1,
+        "name": "palkia"
+      }
+    ]
+  },
+  {
+    "id": 485,
+    "name": "heatran",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/485.png",
+    "weight": 4300,
+    "height": 17,
+    "types": [
+      "fire",
+      "steel"
+    ],
+    "abilities": [
+      "flash-fire",
+      "flame-body"
+    ],
+    "evolution": [
+      {
+        "id": 485,
+        "order": 1,
+        "name": "heatran"
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "name": "regigigas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/486.png",
+    "weight": 4200,
+    "height": 37,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "slow-start"
+    ],
+    "evolution": [
+      {
+        "id": 486,
+        "order": 1,
+        "name": "regigigas"
+      }
+    ]
+  },
+  {
+    "id": 487,
+    "name": "giratina-altered",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/487.png",
+    "weight": 7500,
+    "height": 45,
+    "types": [
+      "ghost",
+      "dragon"
+    ],
+    "abilities": [
+      "pressure",
+      "telepathy"
+    ],
+    "evolution": [
+      {
+        "id": 487,
+        "order": 1,
+        "name": "giratina"
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "name": "cresselia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/488.png",
+    "weight": 856,
+    "height": 15,
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "levitate"
+    ],
+    "evolution": [
+      {
+        "id": 488,
+        "order": 1,
+        "name": "cresselia"
+      }
+    ]
+  },
+  {
+    "id": 489,
+    "name": "phione",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/489.png",
+    "weight": 31,
+    "height": 4,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "hydration"
+    ],
+    "evolution": [
+      {
+        "id": 489,
+        "order": 1,
+        "name": "phione"
+      },
+      {
+        "id": 490,
+        "order": 2,
+        "name": "manaphy"
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "name": "manaphy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/490.png",
+    "weight": 14,
+    "height": 3,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "hydration"
+    ],
+    "evolution": [
+      {
+        "id": 489,
+        "order": 1,
+        "name": "phione"
+      },
+      {
+        "id": 490,
+        "order": 2,
+        "name": "manaphy"
+      }
+    ]
+  },
+  {
+    "id": 491,
+    "name": "darkrai",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/491.png",
+    "weight": 505,
+    "height": 15,
+    "types": [
+      "dark"
+    ],
+    "abilities": [
+      "bad-dreams"
+    ],
+    "evolution": [
+      {
+        "id": 491,
+        "order": 1,
+        "name": "darkrai"
+      }
+    ]
+  },
+  {
+    "id": 492,
+    "name": "shaymin-land",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/492.png",
+    "weight": 21,
+    "height": 2,
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "natural-cure"
+    ],
+    "evolution": [
+      {
+        "id": 492,
+        "order": 1,
+        "name": "shaymin"
+      }
+    ]
+  },
+  {
+    "id": 493,
+    "name": "arceus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/493.png",
+    "weight": 3200,
+    "height": 32,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "multitype"
+    ],
+    "evolution": [
+      {
+        "id": 493,
+        "order": 1,
+        "name": "arceus"
+      }
+    ]
+  }
+]

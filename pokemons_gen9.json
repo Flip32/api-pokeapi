@@ -1,0 +1,3005 @@
+[
+  {
+    "id": 899,
+    "name": "wyrdeer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/899.png",
+    "weight": 951,
+    "height": 18,
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "abilities": [
+      "intimidate",
+      "frisk",
+      "sap-sipper"
+    ],
+    "evolution": [
+      {
+        "id": 234,
+        "order": 1,
+        "name": "stantler"
+      },
+      {
+        "id": 899,
+        "order": 2,
+        "name": "wyrdeer"
+      }
+    ]
+  },
+  {
+    "id": 900,
+    "name": "kleavor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/900.png",
+    "weight": 890,
+    "height": 18,
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "abilities": [
+      "swarm",
+      "sheer-force",
+      "sharpness"
+    ],
+    "evolution": [
+      {
+        "id": 123,
+        "order": 1,
+        "name": "scyther"
+      },
+      {
+        "id": 212,
+        "order": 2,
+        "name": "scizor"
+      }
+    ]
+  },
+  {
+    "id": 901,
+    "name": "ursaluna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/901.png",
+    "weight": 2900,
+    "height": 24,
+    "types": [
+      "ground",
+      "normal"
+    ],
+    "abilities": [
+      "guts",
+      "bulletproof",
+      "unnerve"
+    ],
+    "evolution": [
+      {
+        "id": 216,
+        "order": 1,
+        "name": "teddiursa"
+      },
+      {
+        "id": 217,
+        "order": 2,
+        "name": "ursaring"
+      },
+      {
+        "id": 901,
+        "order": 3,
+        "name": "ursaluna"
+      }
+    ]
+  },
+  {
+    "id": 902,
+    "name": "basculegion-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/902.png",
+    "weight": 1100,
+    "height": 30,
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "abilities": [
+      "swift-swim",
+      "adaptability",
+      "mold-breaker"
+    ],
+    "evolution": [
+      {
+        "id": 550,
+        "order": 1,
+        "name": "basculin"
+      },
+      {
+        "id": 902,
+        "order": 2,
+        "name": "basculegion"
+      }
+    ]
+  },
+  {
+    "id": 903,
+    "name": "sneasler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/903.png",
+    "weight": 430,
+    "height": 13,
+    "types": [
+      "fighting",
+      "poison"
+    ],
+    "abilities": [
+      "pressure",
+      "unburden",
+      "poison-touch"
+    ],
+    "evolution": [
+      {
+        "id": 215,
+        "order": 1,
+        "name": "sneasel"
+      },
+      {
+        "id": 461,
+        "order": 2,
+        "name": "weavile"
+      }
+    ]
+  },
+  {
+    "id": 904,
+    "name": "overqwil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/904.png",
+    "weight": 605,
+    "height": 25,
+    "types": [
+      "dark",
+      "poison"
+    ],
+    "abilities": [
+      "poison-point",
+      "swift-swim",
+      "intimidate"
+    ],
+    "evolution": [
+      {
+        "id": 211,
+        "order": 1,
+        "name": "qwilfish"
+      },
+      {
+        "id": 904,
+        "order": 2,
+        "name": "overqwil"
+      }
+    ]
+  },
+  {
+    "id": 905,
+    "name": "enamorus-incarnate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/905.png",
+    "weight": 480,
+    "height": 16,
+    "types": [
+      "fairy",
+      "flying"
+    ],
+    "abilities": [
+      "cute-charm",
+      "contrary"
+    ],
+    "evolution": [
+      {
+        "id": 905,
+        "order": 1,
+        "name": "enamorus"
+      }
+    ]
+  },
+  {
+    "id": 906,
+    "name": "sprigatito",
+    "image": "",
+    "weight": 41,
+    "height": 4,
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "overgrow",
+      "protean"
+    ],
+    "evolution": [
+      {
+        "id": 906,
+        "order": 1,
+        "name": "sprigatito"
+      },
+      {
+        "id": 907,
+        "order": 2,
+        "name": "floragato"
+      },
+      {
+        "id": 908,
+        "order": 3,
+        "name": "meowscarada"
+      }
+    ]
+  },
+  {
+    "id": 907,
+    "name": "floragato",
+    "image": "",
+    "weight": 122,
+    "height": 9,
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "overgrow",
+      "protean"
+    ],
+    "evolution": [
+      {
+        "id": 906,
+        "order": 1,
+        "name": "sprigatito"
+      },
+      {
+        "id": 907,
+        "order": 2,
+        "name": "floragato"
+      },
+      {
+        "id": 908,
+        "order": 3,
+        "name": "meowscarada"
+      }
+    ]
+  },
+  {
+    "id": 908,
+    "name": "meowscarada",
+    "image": "",
+    "weight": 312,
+    "height": 15,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "abilities": [
+      "overgrow",
+      "protean"
+    ],
+    "evolution": [
+      {
+        "id": 906,
+        "order": 1,
+        "name": "sprigatito"
+      },
+      {
+        "id": 907,
+        "order": 2,
+        "name": "floragato"
+      },
+      {
+        "id": 908,
+        "order": 3,
+        "name": "meowscarada"
+      }
+    ]
+  },
+  {
+    "id": 909,
+    "name": "fuecoco",
+    "image": "",
+    "weight": 98,
+    "height": 4,
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "blaze",
+      "unaware"
+    ],
+    "evolution": [
+      {
+        "id": 909,
+        "order": 1,
+        "name": "fuecoco"
+      },
+      {
+        "id": 910,
+        "order": 2,
+        "name": "crocalor"
+      },
+      {
+        "id": 911,
+        "order": 3,
+        "name": "skeledirge"
+      }
+    ]
+  },
+  {
+    "id": 910,
+    "name": "crocalor",
+    "image": "",
+    "weight": 307,
+    "height": 10,
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "blaze",
+      "unaware"
+    ],
+    "evolution": [
+      {
+        "id": 909,
+        "order": 1,
+        "name": "fuecoco"
+      },
+      {
+        "id": 910,
+        "order": 2,
+        "name": "crocalor"
+      },
+      {
+        "id": 911,
+        "order": 3,
+        "name": "skeledirge"
+      }
+    ]
+  },
+  {
+    "id": 911,
+    "name": "skeledirge",
+    "image": "",
+    "weight": 3265,
+    "height": 16,
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "abilities": [
+      "blaze",
+      "unaware"
+    ],
+    "evolution": [
+      {
+        "id": 909,
+        "order": 1,
+        "name": "fuecoco"
+      },
+      {
+        "id": 910,
+        "order": 2,
+        "name": "crocalor"
+      },
+      {
+        "id": 911,
+        "order": 3,
+        "name": "skeledirge"
+      }
+    ]
+  },
+  {
+    "id": 912,
+    "name": "quaxly",
+    "image": "",
+    "weight": 61,
+    "height": 5,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "torrent",
+      "moxie"
+    ],
+    "evolution": [
+      {
+        "id": 912,
+        "order": 1,
+        "name": "quaxly"
+      },
+      {
+        "id": 913,
+        "order": 2,
+        "name": "quaxwell"
+      },
+      {
+        "id": 914,
+        "order": 3,
+        "name": "quaquaval"
+      }
+    ]
+  },
+  {
+    "id": 913,
+    "name": "quaxwell",
+    "image": "",
+    "weight": 215,
+    "height": 12,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "torrent",
+      "moxie"
+    ],
+    "evolution": [
+      {
+        "id": 912,
+        "order": 1,
+        "name": "quaxly"
+      },
+      {
+        "id": 913,
+        "order": 2,
+        "name": "quaxwell"
+      },
+      {
+        "id": 914,
+        "order": 3,
+        "name": "quaquaval"
+      }
+    ]
+  },
+  {
+    "id": 914,
+    "name": "quaquaval",
+    "image": "",
+    "weight": 619,
+    "height": 18,
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "abilities": [
+      "torrent",
+      "moxie"
+    ],
+    "evolution": [
+      {
+        "id": 912,
+        "order": 1,
+        "name": "quaxly"
+      },
+      {
+        "id": 913,
+        "order": 2,
+        "name": "quaxwell"
+      },
+      {
+        "id": 914,
+        "order": 3,
+        "name": "quaquaval"
+      }
+    ]
+  },
+  {
+    "id": 915,
+    "name": "lechonk",
+    "image": "",
+    "weight": 102,
+    "height": 5,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "aroma-veil",
+      "gluttony",
+      "thick-fat"
+    ],
+    "evolution": [
+      {
+        "id": 915,
+        "order": 1,
+        "name": "lechonk"
+      },
+      {
+        "id": 916,
+        "order": 2,
+        "name": "oinkologne"
+      }
+    ]
+  },
+  {
+    "id": 916,
+    "name": "oinkologne",
+    "image": "",
+    "weight": 1200,
+    "height": 10,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "lingering-aroma",
+      "gluttony",
+      "thick-fat"
+    ],
+    "evolution": [
+      {
+        "id": 915,
+        "order": 1,
+        "name": "lechonk"
+      },
+      {
+        "id": 916,
+        "order": 2,
+        "name": "oinkologne"
+      }
+    ]
+  },
+  {
+    "id": 917,
+    "name": "tarountula",
+    "image": "",
+    "weight": 40,
+    "height": 3,
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "insomnia",
+      "stakeout"
+    ],
+    "evolution": [
+      {
+        "id": 917,
+        "order": 1,
+        "name": "tarountula"
+      },
+      {
+        "id": 918,
+        "order": 2,
+        "name": "spidops"
+      }
+    ]
+  },
+  {
+    "id": 918,
+    "name": "spidops",
+    "image": "",
+    "weight": 165,
+    "height": 10,
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "insomnia",
+      "stakeout"
+    ],
+    "evolution": [
+      {
+        "id": 917,
+        "order": 1,
+        "name": "tarountula"
+      },
+      {
+        "id": 918,
+        "order": 2,
+        "name": "spidops"
+      }
+    ]
+  },
+  {
+    "id": 919,
+    "name": "nymble",
+    "image": "",
+    "weight": 10,
+    "height": 2,
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "swarm",
+      "tinted-lens"
+    ],
+    "evolution": [
+      {
+        "id": 919,
+        "order": 1,
+        "name": "nymble"
+      },
+      {
+        "id": 920,
+        "order": 2,
+        "name": "lokix"
+      }
+    ]
+  },
+  {
+    "id": 920,
+    "name": "lokix",
+    "image": "",
+    "weight": 175,
+    "height": 10,
+    "types": [
+      "bug",
+      "dark"
+    ],
+    "abilities": [
+      "swarm",
+      "tinted-lens"
+    ],
+    "evolution": [
+      {
+        "id": 919,
+        "order": 1,
+        "name": "nymble"
+      },
+      {
+        "id": 920,
+        "order": 2,
+        "name": "lokix"
+      }
+    ]
+  },
+  {
+    "id": 921,
+    "name": "pawmi",
+    "image": "",
+    "weight": 25,
+    "height": 3,
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "static",
+      "natural-cure",
+      "iron-fist"
+    ],
+    "evolution": [
+      {
+        "id": 921,
+        "order": 1,
+        "name": "pawmi"
+      },
+      {
+        "id": 922,
+        "order": 2,
+        "name": "pawmo"
+      },
+      {
+        "id": 923,
+        "order": 3,
+        "name": "pawmot"
+      }
+    ]
+  },
+  {
+    "id": 922,
+    "name": "pawmo",
+    "image": "",
+    "weight": 65,
+    "height": 4,
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "abilities": [
+      "volt-absorb",
+      "natural-cure",
+      "iron-fist"
+    ],
+    "evolution": [
+      {
+        "id": 921,
+        "order": 1,
+        "name": "pawmi"
+      },
+      {
+        "id": 922,
+        "order": 2,
+        "name": "pawmo"
+      },
+      {
+        "id": 923,
+        "order": 3,
+        "name": "pawmot"
+      }
+    ]
+  },
+  {
+    "id": 923,
+    "name": "pawmot",
+    "image": "",
+    "weight": 410,
+    "height": 9,
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "abilities": [
+      "volt-absorb",
+      "natural-cure",
+      "iron-fist"
+    ],
+    "evolution": [
+      {
+        "id": 921,
+        "order": 1,
+        "name": "pawmi"
+      },
+      {
+        "id": 922,
+        "order": 2,
+        "name": "pawmo"
+      },
+      {
+        "id": 923,
+        "order": 3,
+        "name": "pawmot"
+      }
+    ]
+  },
+  {
+    "id": 924,
+    "name": "tandemaus",
+    "image": "",
+    "weight": 18,
+    "height": 3,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "run-away",
+      "pickup",
+      "own-tempo"
+    ],
+    "evolution": [
+      {
+        "id": 924,
+        "order": 1,
+        "name": "tandemaus"
+      },
+      {
+        "id": 925,
+        "order": 2,
+        "name": "maushold"
+      }
+    ]
+  },
+  {
+    "id": 925,
+    "name": "maushold",
+    "image": "",
+    "weight": 23,
+    "height": 3,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "friend-guard",
+      "cheek-pouch",
+      "technician"
+    ],
+    "evolution": [
+      {
+        "id": 924,
+        "order": 1,
+        "name": "tandemaus"
+      },
+      {
+        "id": 925,
+        "order": 2,
+        "name": "maushold"
+      }
+    ]
+  },
+  {
+    "id": 926,
+    "name": "fidough",
+    "image": "",
+    "weight": 109,
+    "height": 3,
+    "types": [
+      "fairy"
+    ],
+    "abilities": [
+      "own-tempo",
+      "klutz"
+    ],
+    "evolution": [
+      {
+        "id": 926,
+        "order": 1,
+        "name": "fidough"
+      },
+      {
+        "id": 927,
+        "order": 2,
+        "name": "dachsbun"
+      }
+    ]
+  },
+  {
+    "id": 927,
+    "name": "dachsbun",
+    "image": "",
+    "weight": 149,
+    "height": 5,
+    "types": [
+      "fairy"
+    ],
+    "abilities": [
+      "well-baked-body",
+      "aroma-veil"
+    ],
+    "evolution": [
+      {
+        "id": 926,
+        "order": 1,
+        "name": "fidough"
+      },
+      {
+        "id": 927,
+        "order": 2,
+        "name": "dachsbun"
+      }
+    ]
+  },
+  {
+    "id": 928,
+    "name": "smoliv",
+    "image": "",
+    "weight": 65,
+    "height": 3,
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "abilities": [
+      "early-bird",
+      "harvest"
+    ],
+    "evolution": [
+      {
+        "id": 928,
+        "order": 1,
+        "name": "smoliv"
+      },
+      {
+        "id": 929,
+        "order": 2,
+        "name": "dolliv"
+      },
+      {
+        "id": 930,
+        "order": 3,
+        "name": "arboliva"
+      }
+    ]
+  },
+  {
+    "id": 929,
+    "name": "dolliv",
+    "image": "",
+    "weight": 119,
+    "height": 6,
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "abilities": [
+      "early-bird",
+      "harvest"
+    ],
+    "evolution": [
+      {
+        "id": 928,
+        "order": 1,
+        "name": "smoliv"
+      },
+      {
+        "id": 929,
+        "order": 2,
+        "name": "dolliv"
+      },
+      {
+        "id": 930,
+        "order": 3,
+        "name": "arboliva"
+      }
+    ]
+  },
+  {
+    "id": 930,
+    "name": "arboliva",
+    "image": "",
+    "weight": 482,
+    "height": 14,
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "abilities": [
+      "seed-sower",
+      "harvest"
+    ],
+    "evolution": [
+      {
+        "id": 928,
+        "order": 1,
+        "name": "smoliv"
+      },
+      {
+        "id": 929,
+        "order": 2,
+        "name": "dolliv"
+      },
+      {
+        "id": 930,
+        "order": 3,
+        "name": "arboliva"
+      }
+    ]
+  },
+  {
+    "id": 931,
+    "name": "squawkabilly",
+    "image": "",
+    "weight": 24,
+    "height": 6,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "abilities": [
+      "intimidate",
+      "hustle",
+      "guts"
+    ],
+    "evolution": [
+      {
+        "id": 931,
+        "order": 1,
+        "name": "squawkabilly"
+      }
+    ]
+  },
+  {
+    "id": 932,
+    "name": "nacli",
+    "image": "",
+    "weight": 160,
+    "height": 4,
+    "types": [
+      "rock"
+    ],
+    "abilities": [
+      "purifying-salt",
+      "sturdy",
+      "clear-body"
+    ],
+    "evolution": [
+      {
+        "id": 932,
+        "order": 1,
+        "name": "nacli"
+      },
+      {
+        "id": 933,
+        "order": 2,
+        "name": "naclstack"
+      },
+      {
+        "id": 934,
+        "order": 3,
+        "name": "garganacl"
+      }
+    ]
+  },
+  {
+    "id": 933,
+    "name": "naclstack",
+    "image": "",
+    "weight": 1050,
+    "height": 6,
+    "types": [
+      "rock"
+    ],
+    "abilities": [
+      "purifying-salt",
+      "sturdy",
+      "clear-body"
+    ],
+    "evolution": [
+      {
+        "id": 932,
+        "order": 1,
+        "name": "nacli"
+      },
+      {
+        "id": 933,
+        "order": 2,
+        "name": "naclstack"
+      },
+      {
+        "id": 934,
+        "order": 3,
+        "name": "garganacl"
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "name": "garganacl",
+    "image": "",
+    "weight": 2400,
+    "height": 23,
+    "types": [
+      "rock"
+    ],
+    "abilities": [
+      "purifying-salt",
+      "sturdy",
+      "clear-body"
+    ],
+    "evolution": [
+      {
+        "id": 932,
+        "order": 1,
+        "name": "nacli"
+      },
+      {
+        "id": 933,
+        "order": 2,
+        "name": "naclstack"
+      },
+      {
+        "id": 934,
+        "order": 3,
+        "name": "garganacl"
+      }
+    ]
+  },
+  {
+    "id": 935,
+    "name": "charcadet",
+    "image": "",
+    "weight": 105,
+    "height": 6,
+    "types": [
+      "fire"
+    ],
+    "abilities": [
+      "flash-fire",
+      "flame-body"
+    ],
+    "evolution": [
+      {
+        "id": 935,
+        "order": 1,
+        "name": "charcadet"
+      },
+      {
+        "id": 936,
+        "order": 2,
+        "name": "armarouge"
+      }
+    ]
+  },
+  {
+    "id": 936,
+    "name": "armarouge",
+    "image": "",
+    "weight": 850,
+    "height": 15,
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "abilities": [
+      "flash-fire",
+      "weak-armor"
+    ],
+    "evolution": [
+      {
+        "id": 935,
+        "order": 1,
+        "name": "charcadet"
+      },
+      {
+        "id": 936,
+        "order": 2,
+        "name": "armarouge"
+      }
+    ]
+  },
+  {
+    "id": 937,
+    "name": "ceruledge",
+    "image": "",
+    "weight": 620,
+    "height": 16,
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "abilities": [
+      "flash-fire",
+      "weak-armor"
+    ],
+    "evolution": [
+      {
+        "id": 935,
+        "order": 1,
+        "name": "charcadet"
+      },
+      {
+        "id": 936,
+        "order": 2,
+        "name": "armarouge"
+      }
+    ]
+  },
+  {
+    "id": 938,
+    "name": "tadbulb",
+    "image": "",
+    "weight": 4,
+    "height": 3,
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "own-tempo",
+      "static",
+      "damp"
+    ],
+    "evolution": [
+      {
+        "id": 938,
+        "order": 1,
+        "name": "tadbulb"
+      },
+      {
+        "id": 939,
+        "order": 2,
+        "name": "bellibolt"
+      }
+    ]
+  },
+  {
+    "id": 939,
+    "name": "bellibolt",
+    "image": "",
+    "weight": 1130,
+    "height": 12,
+    "types": [
+      "electric"
+    ],
+    "abilities": [
+      "electromorphosis",
+      "static",
+      "damp"
+    ],
+    "evolution": [
+      {
+        "id": 938,
+        "order": 1,
+        "name": "tadbulb"
+      },
+      {
+        "id": 939,
+        "order": 2,
+        "name": "bellibolt"
+      }
+    ]
+  },
+  {
+    "id": 940,
+    "name": "wattrel",
+    "image": "",
+    "weight": 36,
+    "height": 4,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "abilities": [
+      "wind-power",
+      "volt-absorb",
+      "competitive"
+    ],
+    "evolution": [
+      {
+        "id": 940,
+        "order": 1,
+        "name": "wattrel"
+      },
+      {
+        "id": 941,
+        "order": 2,
+        "name": "kilowattrel"
+      }
+    ]
+  },
+  {
+    "id": 941,
+    "name": "kilowattrel",
+    "image": "",
+    "weight": 386,
+    "height": 14,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "abilities": [
+      "wind-power",
+      "volt-absorb",
+      "competitive"
+    ],
+    "evolution": [
+      {
+        "id": 940,
+        "order": 1,
+        "name": "wattrel"
+      },
+      {
+        "id": 941,
+        "order": 2,
+        "name": "kilowattrel"
+      }
+    ]
+  },
+  {
+    "id": 942,
+    "name": "maschiff",
+    "image": "",
+    "weight": 160,
+    "height": 5,
+    "types": [
+      "dark"
+    ],
+    "abilities": [
+      "intimidate",
+      "run-away",
+      "stakeout"
+    ],
+    "evolution": [
+      {
+        "id": 942,
+        "order": 1,
+        "name": "maschiff"
+      },
+      {
+        "id": 943,
+        "order": 2,
+        "name": "mabosstiff"
+      }
+    ]
+  },
+  {
+    "id": 943,
+    "name": "mabosstiff",
+    "image": "",
+    "weight": 610,
+    "height": 11,
+    "types": [
+      "dark"
+    ],
+    "abilities": [
+      "intimidate",
+      "guard-dog",
+      "stakeout"
+    ],
+    "evolution": [
+      {
+        "id": 942,
+        "order": 1,
+        "name": "maschiff"
+      },
+      {
+        "id": 943,
+        "order": 2,
+        "name": "mabosstiff"
+      }
+    ]
+  },
+  {
+    "id": 944,
+    "name": "shroodle",
+    "image": "",
+    "weight": 7,
+    "height": 2,
+    "types": [
+      "poison",
+      "normal"
+    ],
+    "abilities": [
+      "unburden",
+      "pickpocket",
+      "prankster"
+    ],
+    "evolution": [
+      {
+        "id": 944,
+        "order": 1,
+        "name": "shroodle"
+      },
+      {
+        "id": 945,
+        "order": 2,
+        "name": "grafaiai"
+      }
+    ]
+  },
+  {
+    "id": 945,
+    "name": "grafaiai",
+    "image": "",
+    "weight": 272,
+    "height": 7,
+    "types": [
+      "poison",
+      "normal"
+    ],
+    "abilities": [
+      "unburden",
+      "poison-touch",
+      "prankster"
+    ],
+    "evolution": [
+      {
+        "id": 944,
+        "order": 1,
+        "name": "shroodle"
+      },
+      {
+        "id": 945,
+        "order": 2,
+        "name": "grafaiai"
+      }
+    ]
+  },
+  {
+    "id": 946,
+    "name": "bramblin",
+    "image": "",
+    "weight": 6,
+    "height": 6,
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "abilities": [
+      "wind-rider",
+      "infiltrator"
+    ],
+    "evolution": [
+      {
+        "id": 946,
+        "order": 1,
+        "name": "bramblin"
+      },
+      {
+        "id": 947,
+        "order": 2,
+        "name": "brambleghast"
+      }
+    ]
+  },
+  {
+    "id": 947,
+    "name": "brambleghast",
+    "image": "",
+    "weight": 60,
+    "height": 12,
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "abilities": [
+      "wind-rider",
+      "infiltrator"
+    ],
+    "evolution": [
+      {
+        "id": 946,
+        "order": 1,
+        "name": "bramblin"
+      },
+      {
+        "id": 947,
+        "order": 2,
+        "name": "brambleghast"
+      }
+    ]
+  },
+  {
+    "id": 948,
+    "name": "toedscool",
+    "image": "",
+    "weight": 330,
+    "height": 9,
+    "types": [
+      "ground",
+      "grass"
+    ],
+    "abilities": [
+      "mycelium-might",
+      "mycelium-might"
+    ],
+    "evolution": [
+      {
+        "id": 948,
+        "order": 1,
+        "name": "toedscool"
+      },
+      {
+        "id": 949,
+        "order": 2,
+        "name": "toedscruel"
+      }
+    ]
+  },
+  {
+    "id": 949,
+    "name": "toedscruel",
+    "image": "",
+    "weight": 580,
+    "height": 19,
+    "types": [
+      "ground",
+      "grass"
+    ],
+    "abilities": [
+      "mycelium-might",
+      "mycelium-might"
+    ],
+    "evolution": [
+      {
+        "id": 948,
+        "order": 1,
+        "name": "toedscool"
+      },
+      {
+        "id": 949,
+        "order": 2,
+        "name": "toedscruel"
+      }
+    ]
+  },
+  {
+    "id": 950,
+    "name": "klawf",
+    "image": "",
+    "weight": 790,
+    "height": 13,
+    "types": [
+      "rock"
+    ],
+    "abilities": [
+      "anger-shell",
+      "shell-armor",
+      "regenerator"
+    ],
+    "evolution": [
+      {
+        "id": 950,
+        "order": 1,
+        "name": "klawf"
+      }
+    ]
+  },
+  {
+    "id": 951,
+    "name": "capsakid",
+    "image": "",
+    "weight": 30,
+    "height": 3,
+    "types": [
+      "grass"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "insomnia",
+      "klutz"
+    ],
+    "evolution": [
+      {
+        "id": 951,
+        "order": 1,
+        "name": "capsakid"
+      },
+      {
+        "id": 952,
+        "order": 2,
+        "name": "scovillain"
+      }
+    ]
+  },
+  {
+    "id": 952,
+    "name": "scovillain",
+    "image": "",
+    "weight": 150,
+    "height": 9,
+    "types": [
+      "grass",
+      "fire"
+    ],
+    "abilities": [
+      "chlorophyll",
+      "insomnia",
+      "moody"
+    ],
+    "evolution": [
+      {
+        "id": 951,
+        "order": 1,
+        "name": "capsakid"
+      },
+      {
+        "id": 952,
+        "order": 2,
+        "name": "scovillain"
+      }
+    ]
+  },
+  {
+    "id": 953,
+    "name": "rellor",
+    "image": "",
+    "weight": 10,
+    "height": 2,
+    "types": [
+      "bug"
+    ],
+    "abilities": [
+      "compound-eyes",
+      "shed-skin"
+    ],
+    "evolution": [
+      {
+        "id": 953,
+        "order": 1,
+        "name": "rellor"
+      },
+      {
+        "id": 954,
+        "order": 2,
+        "name": "rabsca"
+      }
+    ]
+  },
+  {
+    "id": 954,
+    "name": "rabsca",
+    "image": "",
+    "weight": 35,
+    "height": 3,
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "abilities": [
+      "synchronize",
+      "telepathy"
+    ],
+    "evolution": [
+      {
+        "id": 953,
+        "order": 1,
+        "name": "rellor"
+      },
+      {
+        "id": 954,
+        "order": 2,
+        "name": "rabsca"
+      }
+    ]
+  },
+  {
+    "id": 955,
+    "name": "flittle",
+    "image": "",
+    "weight": 15,
+    "height": 2,
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "anticipation",
+      "frisk",
+      "speed-boost"
+    ],
+    "evolution": [
+      {
+        "id": 955,
+        "order": 1,
+        "name": "flittle"
+      },
+      {
+        "id": 956,
+        "order": 2,
+        "name": "espathra"
+      }
+    ]
+  },
+  {
+    "id": 956,
+    "name": "espathra",
+    "image": "",
+    "weight": 900,
+    "height": 19,
+    "types": [
+      "psychic"
+    ],
+    "abilities": [
+      "opportunist",
+      "frisk",
+      "speed-boost"
+    ],
+    "evolution": [
+      {
+        "id": 955,
+        "order": 1,
+        "name": "flittle"
+      },
+      {
+        "id": 956,
+        "order": 2,
+        "name": "espathra"
+      }
+    ]
+  },
+  {
+    "id": 957,
+    "name": "tinkatink",
+    "image": "",
+    "weight": 89,
+    "height": 4,
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "abilities": [
+      "mold-breaker",
+      "own-tempo",
+      "pickpocket"
+    ],
+    "evolution": [
+      {
+        "id": 957,
+        "order": 1,
+        "name": "tinkatink"
+      },
+      {
+        "id": 958,
+        "order": 2,
+        "name": "tinkatuff"
+      },
+      {
+        "id": 959,
+        "order": 3,
+        "name": "tinkaton"
+      }
+    ]
+  },
+  {
+    "id": 958,
+    "name": "tinkatuff",
+    "image": "",
+    "weight": 591,
+    "height": 7,
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "abilities": [
+      "mold-breaker",
+      "own-tempo",
+      "pickpocket"
+    ],
+    "evolution": [
+      {
+        "id": 957,
+        "order": 1,
+        "name": "tinkatink"
+      },
+      {
+        "id": 958,
+        "order": 2,
+        "name": "tinkatuff"
+      },
+      {
+        "id": 959,
+        "order": 3,
+        "name": "tinkaton"
+      }
+    ]
+  },
+  {
+    "id": 959,
+    "name": "tinkaton",
+    "image": "",
+    "weight": 1128,
+    "height": 7,
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "abilities": [
+      "mold-breaker",
+      "own-tempo",
+      "pickpocket"
+    ],
+    "evolution": [
+      {
+        "id": 957,
+        "order": 1,
+        "name": "tinkatink"
+      },
+      {
+        "id": 958,
+        "order": 2,
+        "name": "tinkatuff"
+      },
+      {
+        "id": 959,
+        "order": 3,
+        "name": "tinkaton"
+      }
+    ]
+  },
+  {
+    "id": 960,
+    "name": "wiglett",
+    "image": "",
+    "weight": 18,
+    "height": 12,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "gooey",
+      "rattled",
+      "sand-veil"
+    ],
+    "evolution": [
+      {
+        "id": 960,
+        "order": 1,
+        "name": "wiglett"
+      },
+      {
+        "id": 961,
+        "order": 2,
+        "name": "wugtrio"
+      }
+    ]
+  },
+  {
+    "id": 961,
+    "name": "wugtrio",
+    "image": "",
+    "weight": 54,
+    "height": 12,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "gooey",
+      "rattled",
+      "sand-veil"
+    ],
+    "evolution": [
+      {
+        "id": 960,
+        "order": 1,
+        "name": "wiglett"
+      },
+      {
+        "id": 961,
+        "order": 2,
+        "name": "wugtrio"
+      }
+    ]
+  },
+  {
+    "id": 962,
+    "name": "bombirdier",
+    "image": "",
+    "weight": 429,
+    "height": 15,
+    "types": [
+      "flying",
+      "dark"
+    ],
+    "abilities": [
+      "big-pecks",
+      "keen-eye",
+      "rocky-payload"
+    ],
+    "evolution": [
+      {
+        "id": 962,
+        "order": 1,
+        "name": "bombirdier"
+      }
+    ]
+  },
+  {
+    "id": 963,
+    "name": "finizen",
+    "image": "",
+    "weight": 602,
+    "height": 13,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "water-veil",
+      "water-veil"
+    ],
+    "evolution": [
+      {
+        "id": 963,
+        "order": 1,
+        "name": "finizen"
+      },
+      {
+        "id": 964,
+        "order": 2,
+        "name": "palafin"
+      }
+    ]
+  },
+  {
+    "id": 964,
+    "name": "palafin",
+    "image": "",
+    "weight": 602,
+    "height": 13,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "zero-to-hero",
+      "zero-to-hero"
+    ],
+    "evolution": [
+      {
+        "id": 963,
+        "order": 1,
+        "name": "finizen"
+      },
+      {
+        "id": 964,
+        "order": 2,
+        "name": "palafin"
+      }
+    ]
+  },
+  {
+    "id": 965,
+    "name": "varoom",
+    "image": "",
+    "weight": 350,
+    "height": 10,
+    "types": [
+      "steel",
+      "poison"
+    ],
+    "abilities": [
+      "overcoat",
+      "slow-start"
+    ],
+    "evolution": [
+      {
+        "id": 965,
+        "order": 1,
+        "name": "varoom"
+      },
+      {
+        "id": 966,
+        "order": 2,
+        "name": "revavroom"
+      }
+    ]
+  },
+  {
+    "id": 966,
+    "name": "revavroom",
+    "image": "",
+    "weight": 1200,
+    "height": 18,
+    "types": [
+      "steel",
+      "poison"
+    ],
+    "abilities": [
+      "overcoat",
+      "filter"
+    ],
+    "evolution": [
+      {
+        "id": 965,
+        "order": 1,
+        "name": "varoom"
+      },
+      {
+        "id": 966,
+        "order": 2,
+        "name": "revavroom"
+      }
+    ]
+  },
+  {
+    "id": 967,
+    "name": "cyclizar",
+    "image": "",
+    "weight": 630,
+    "height": 16,
+    "types": [
+      "dragon",
+      "normal"
+    ],
+    "abilities": [
+      "shed-skin",
+      "regenerator"
+    ],
+    "evolution": [
+      {
+        "id": 967,
+        "order": 1,
+        "name": "cyclizar"
+      }
+    ]
+  },
+  {
+    "id": 968,
+    "name": "orthworm",
+    "image": "",
+    "weight": 3100,
+    "height": 25,
+    "types": [
+      "steel"
+    ],
+    "abilities": [
+      "earth-eater",
+      "sand-veil"
+    ],
+    "evolution": [
+      {
+        "id": 968,
+        "order": 1,
+        "name": "orthworm"
+      }
+    ]
+  },
+  {
+    "id": 969,
+    "name": "glimmet",
+    "image": "",
+    "weight": 80,
+    "height": 7,
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "abilities": [
+      "toxic-debris",
+      "corrosion"
+    ],
+    "evolution": [
+      {
+        "id": 969,
+        "order": 1,
+        "name": "glimmet"
+      },
+      {
+        "id": 970,
+        "order": 2,
+        "name": "glimmora"
+      }
+    ]
+  },
+  {
+    "id": 970,
+    "name": "glimmora",
+    "image": "",
+    "weight": 450,
+    "height": 15,
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "abilities": [
+      "toxic-debris",
+      "corrosion"
+    ],
+    "evolution": [
+      {
+        "id": 969,
+        "order": 1,
+        "name": "glimmet"
+      },
+      {
+        "id": 970,
+        "order": 2,
+        "name": "glimmora"
+      }
+    ]
+  },
+  {
+    "id": 971,
+    "name": "greavard",
+    "image": "",
+    "weight": 350,
+    "height": 6,
+    "types": [
+      "ghost"
+    ],
+    "abilities": [
+      "pickup",
+      "fluffy"
+    ],
+    "evolution": [
+      {
+        "id": 971,
+        "order": 1,
+        "name": "greavard"
+      },
+      {
+        "id": 972,
+        "order": 2,
+        "name": "houndstone"
+      }
+    ]
+  },
+  {
+    "id": 972,
+    "name": "houndstone",
+    "image": "",
+    "weight": 150,
+    "height": 20,
+    "types": [
+      "ghost"
+    ],
+    "abilities": [
+      "sand-rush",
+      "fluffy"
+    ],
+    "evolution": [
+      {
+        "id": 971,
+        "order": 1,
+        "name": "greavard"
+      },
+      {
+        "id": 972,
+        "order": 2,
+        "name": "houndstone"
+      }
+    ]
+  },
+  {
+    "id": 973,
+    "name": "flamigo",
+    "image": "",
+    "weight": 370,
+    "height": 16,
+    "types": [
+      "flying",
+      "fighting"
+    ],
+    "abilities": [
+      "scrappy",
+      "tangled-feet",
+      "costar"
+    ],
+    "evolution": [
+      {
+        "id": 973,
+        "order": 1,
+        "name": "flamigo"
+      }
+    ]
+  },
+  {
+    "id": 974,
+    "name": "cetoddle",
+    "image": "",
+    "weight": 450,
+    "height": 12,
+    "types": [
+      "ice"
+    ],
+    "abilities": [
+      "thick-fat",
+      "snow-cloak",
+      "sheer-force"
+    ],
+    "evolution": [
+      {
+        "id": 974,
+        "order": 1,
+        "name": "cetoddle"
+      },
+      {
+        "id": 975,
+        "order": 2,
+        "name": "cetitan"
+      }
+    ]
+  },
+  {
+    "id": 975,
+    "name": "cetitan",
+    "image": "",
+    "weight": 7000,
+    "height": 45,
+    "types": [
+      "ice"
+    ],
+    "abilities": [
+      "thick-fat",
+      "slush-rush",
+      "sheer-force"
+    ],
+    "evolution": [
+      {
+        "id": 974,
+        "order": 1,
+        "name": "cetoddle"
+      },
+      {
+        "id": 975,
+        "order": 2,
+        "name": "cetitan"
+      }
+    ]
+  },
+  {
+    "id": 976,
+    "name": "veluza",
+    "image": "",
+    "weight": 900,
+    "height": 25,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "abilities": [
+      "mold-breaker",
+      "sharpness"
+    ],
+    "evolution": [
+      {
+        "id": 976,
+        "order": 1,
+        "name": "veluza"
+      }
+    ]
+  },
+  {
+    "id": 977,
+    "name": "dondozo",
+    "image": "",
+    "weight": 2200,
+    "height": 120,
+    "types": [
+      "water"
+    ],
+    "abilities": [
+      "unaware",
+      "oblivious",
+      "water-veil"
+    ],
+    "evolution": [
+      {
+        "id": 977,
+        "order": 1,
+        "name": "dondozo"
+      }
+    ]
+  },
+  {
+    "id": 978,
+    "name": "tatsugiri",
+    "image": "",
+    "weight": 80,
+    "height": 3,
+    "types": [
+      "dragon",
+      "water"
+    ],
+    "abilities": [
+      "commander",
+      "storm-drain"
+    ],
+    "evolution": [
+      {
+        "id": 978,
+        "order": 1,
+        "name": "tatsugiri"
+      }
+    ]
+  },
+  {
+    "id": 979,
+    "name": "annihilape",
+    "image": "",
+    "weight": 560,
+    "height": 12,
+    "types": [
+      "fighting",
+      "ghost"
+    ],
+    "abilities": [
+      "vital-spirit",
+      "inner-focus",
+      "defiant"
+    ],
+    "evolution": [
+      {
+        "id": 56,
+        "order": 1,
+        "name": "mankey"
+      },
+      {
+        "id": 57,
+        "order": 2,
+        "name": "primeape"
+      },
+      {
+        "id": 979,
+        "order": 3,
+        "name": "annihilape"
+      }
+    ]
+  },
+  {
+    "id": 980,
+    "name": "clodsire",
+    "image": "",
+    "weight": 2230,
+    "height": 18,
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "abilities": [
+      "poison-point",
+      "water-absorb",
+      "unaware"
+    ],
+    "evolution": [
+      {
+        "id": 194,
+        "order": 1,
+        "name": "wooper"
+      },
+      {
+        "id": 195,
+        "order": 2,
+        "name": "quagsire"
+      }
+    ]
+  },
+  {
+    "id": 981,
+    "name": "farigiraf",
+    "image": "",
+    "weight": 1600,
+    "height": 32,
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "abilities": [
+      "cud-chew",
+      "armor-tail",
+      "sap-sipper"
+    ],
+    "evolution": [
+      {
+        "id": 203,
+        "order": 1,
+        "name": "girafarig"
+      },
+      {
+        "id": 981,
+        "order": 2,
+        "name": "farigiraf"
+      }
+    ]
+  },
+  {
+    "id": 982,
+    "name": "dudunsparce",
+    "image": "",
+    "weight": 392,
+    "height": 36,
+    "types": [
+      "normal"
+    ],
+    "abilities": [
+      "serene-grace",
+      "run-away",
+      "rattled"
+    ],
+    "evolution": [
+      {
+        "id": 206,
+        "order": 1,
+        "name": "dunsparce"
+      },
+      {
+        "id": 982,
+        "order": 2,
+        "name": "dudunsparce"
+      }
+    ]
+  },
+  {
+    "id": 983,
+    "name": "kingambit",
+    "image": "",
+    "weight": 1200,
+    "height": 20,
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "abilities": [
+      "defiant",
+      "supreme-overlord",
+      "pressure"
+    ],
+    "evolution": [
+      {
+        "id": 624,
+        "order": 1,
+        "name": "pawniard"
+      },
+      {
+        "id": 625,
+        "order": 2,
+        "name": "bisharp"
+      },
+      {
+        "id": 983,
+        "order": 3,
+        "name": "kingambit"
+      }
+    ]
+  },
+  {
+    "id": 984,
+    "name": "great-tusk",
+    "image": "",
+    "weight": 3200,
+    "height": 22,
+    "types": [
+      "ground",
+      "fighting"
+    ],
+    "abilities": [
+      "protosynthesis",
+      "protosynthesis"
+    ],
+    "evolution": [
+      {
+        "id": 984,
+        "order": 1,
+        "name": "great-tusk"
+      }
+    ]
+  },
+  {
+    "id": 985,
+    "name": "scream-tail",
+    "image": "",
+    "weight": 80,
+    "height": 12,
+    "types": [
+      "fairy",
+      "psychic"
+    ],
+    "abilities": [
+      "protosynthesis",
+      "protosynthesis"
+    ],
+    "evolution": [
+      {
+        "id": 985,
+        "order": 1,
+        "name": "scream-tail"
+      }
+    ]
+  },
+  {
+    "id": 986,
+    "name": "brute-bonnet",
+    "image": "",
+    "weight": 210,
+    "height": 12,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "abilities": [
+      "protosynthesis",
+      "protosynthesis"
+    ],
+    "evolution": [
+      {
+        "id": 986,
+        "order": 1,
+        "name": "brute-bonnet"
+      }
+    ]
+  },
+  {
+    "id": 987,
+    "name": "flutter-mane",
+    "image": "",
+    "weight": 40,
+    "height": 14,
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "abilities": [
+      "protosynthesis",
+      "protosynthesis"
+    ],
+    "evolution": [
+      {
+        "id": 987,
+        "order": 1,
+        "name": "flutter-mane"
+      }
+    ]
+  },
+  {
+    "id": 988,
+    "name": "slither-wing",
+    "image": "",
+    "weight": 920,
+    "height": 32,
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "abilities": [
+      "protosynthesis",
+      "protosynthesis"
+    ],
+    "evolution": [
+      {
+        "id": 988,
+        "order": 1,
+        "name": "slither-wing"
+      }
+    ]
+  },
+  {
+    "id": 989,
+    "name": "sandy-shocks",
+    "image": "",
+    "weight": 600,
+    "height": 23,
+    "types": [
+      "electric",
+      "ground"
+    ],
+    "abilities": [
+      "protosynthesis",
+      "protosynthesis"
+    ],
+    "evolution": [
+      {
+        "id": 989,
+        "order": 1,
+        "name": "sandy-shocks"
+      }
+    ]
+  },
+  {
+    "id": 990,
+    "name": "iron-treads",
+    "image": "",
+    "weight": 2400,
+    "height": 9,
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "abilities": [
+      "quark-drive",
+      "quark-drive"
+    ],
+    "evolution": [
+      {
+        "id": 990,
+        "order": 1,
+        "name": "iron-treads"
+      }
+    ]
+  },
+  {
+    "id": 991,
+    "name": "iron-bundle",
+    "image": "",
+    "weight": 110,
+    "height": 6,
+    "types": [
+      "ice",
+      "water"
+    ],
+    "abilities": [
+      "quark-drive",
+      "quark-drive"
+    ],
+    "evolution": [
+      {
+        "id": 991,
+        "order": 1,
+        "name": "iron-bundle"
+      }
+    ]
+  },
+  {
+    "id": 992,
+    "name": "iron-hands",
+    "image": "",
+    "weight": 3807,
+    "height": 18,
+    "types": [
+      "fighting",
+      "electric"
+    ],
+    "abilities": [
+      "quark-drive",
+      "quark-drive"
+    ],
+    "evolution": [
+      {
+        "id": 992,
+        "order": 1,
+        "name": "iron-hands"
+      }
+    ]
+  },
+  {
+    "id": 993,
+    "name": "iron-jugulis",
+    "image": "",
+    "weight": 1110,
+    "height": 13,
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "abilities": [
+      "quark-drive",
+      "quark-drive"
+    ],
+    "evolution": [
+      {
+        "id": 993,
+        "order": 1,
+        "name": "iron-jugulis"
+      }
+    ]
+  },
+  {
+    "id": 994,
+    "name": "iron-moth",
+    "image": "",
+    "weight": 360,
+    "height": 12,
+    "types": [
+      "fire",
+      "poison"
+    ],
+    "abilities": [
+      "quark-drive",
+      "quark-drive"
+    ],
+    "evolution": [
+      {
+        "id": 994,
+        "order": 1,
+        "name": "iron-moth"
+      }
+    ]
+  },
+  {
+    "id": 995,
+    "name": "iron-thorns",
+    "image": "",
+    "weight": 3030,
+    "height": 16,
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "abilities": [
+      "quark-drive",
+      "quark-drive"
+    ],
+    "evolution": [
+      {
+        "id": 995,
+        "order": 1,
+        "name": "iron-thorns"
+      }
+    ]
+  },
+  {
+    "id": 996,
+    "name": "frigibax",
+    "image": "",
+    "weight": 170,
+    "height": 5,
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "abilities": [
+      "thermal-exchange",
+      "ice-body"
+    ],
+    "evolution": [
+      {
+        "id": 996,
+        "order": 1,
+        "name": "frigibax"
+      },
+      {
+        "id": 997,
+        "order": 2,
+        "name": "arctibax"
+      },
+      {
+        "id": 998,
+        "order": 3,
+        "name": "baxcalibur"
+      }
+    ]
+  },
+  {
+    "id": 997,
+    "name": "arctibax",
+    "image": "",
+    "weight": 300,
+    "height": 8,
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "abilities": [
+      "thermal-exchange",
+      "ice-body"
+    ],
+    "evolution": [
+      {
+        "id": 996,
+        "order": 1,
+        "name": "frigibax"
+      },
+      {
+        "id": 997,
+        "order": 2,
+        "name": "arctibax"
+      },
+      {
+        "id": 998,
+        "order": 3,
+        "name": "baxcalibur"
+      }
+    ]
+  },
+  {
+    "id": 998,
+    "name": "baxcalibur",
+    "image": "",
+    "weight": 2100,
+    "height": 21,
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "abilities": [
+      "thermal-exchange",
+      "ice-body"
+    ],
+    "evolution": [
+      {
+        "id": 996,
+        "order": 1,
+        "name": "frigibax"
+      },
+      {
+        "id": 997,
+        "order": 2,
+        "name": "arctibax"
+      },
+      {
+        "id": 998,
+        "order": 3,
+        "name": "baxcalibur"
+      }
+    ]
+  },
+  {
+    "id": 999,
+    "name": "gimmighoul",
+    "image": "",
+    "weight": 50,
+    "height": 3,
+    "types": [
+      "ghost"
+    ],
+    "abilities": [
+      "rattled",
+      "rattled"
+    ],
+    "evolution": [
+      {
+        "id": 999,
+        "order": 1,
+        "name": "gimmighoul"
+      },
+      {
+        "id": 1000,
+        "order": 2,
+        "name": "gholdengo"
+      }
+    ]
+  },
+  {
+    "id": 1000,
+    "name": "gholdengo",
+    "image": "",
+    "weight": 300,
+    "height": 12,
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "abilities": [
+      "good-as-gold",
+      "good-as-gold"
+    ],
+    "evolution": [
+      {
+        "id": 999,
+        "order": 1,
+        "name": "gimmighoul"
+      },
+      {
+        "id": 1000,
+        "order": 2,
+        "name": "gholdengo"
+      }
+    ]
+  },
+  {
+    "id": 1001,
+    "name": "wo-chien",
+    "image": "",
+    "weight": 742,
+    "height": 15,
+    "types": [
+      "dark",
+      "grass"
+    ],
+    "abilities": [
+      "tablets-of-ruin",
+      "tablets-of-ruin"
+    ],
+    "evolution": [
+      {
+        "id": 1001,
+        "order": 1,
+        "name": "wo-chien"
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "chien-pao",
+    "image": "",
+    "weight": 1522,
+    "height": 19,
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "abilities": [
+      "sword-of-ruin",
+      "sword-of-ruin"
+    ],
+    "evolution": [
+      {
+        "id": 1002,
+        "order": 1,
+        "name": "chien-pao"
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "ting-lu",
+    "image": "",
+    "weight": 6997,
+    "height": 27,
+    "types": [
+      "dark",
+      "ground"
+    ],
+    "abilities": [
+      "vessel-of-ruin",
+      "vessel-of-ruin"
+    ],
+    "evolution": [
+      {
+        "id": 1003,
+        "order": 1,
+        "name": "ting-lu"
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "chi-yu",
+    "image": "",
+    "weight": 49,
+    "height": 4,
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "abilities": [
+      "beads-of-ruin",
+      "beads-of-ruin"
+    ],
+    "evolution": [
+      {
+        "id": 1004,
+        "order": 1,
+        "name": "chi-yu"
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "roaring-moon",
+    "image": "",
+    "weight": 3800,
+    "height": 20,
+    "types": [
+      "dragon",
+      "dark"
+    ],
+    "abilities": [
+      "protosynthesis",
+      "protosynthesis"
+    ],
+    "evolution": [
+      {
+        "id": 1005,
+        "order": 1,
+        "name": "roaring-moon"
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "iron-valiant",
+    "image": "",
+    "weight": 350,
+    "height": 14,
+    "types": [
+      "fairy",
+      "fighting"
+    ],
+    "abilities": [
+      "quark-drive",
+      "quark-drive"
+    ],
+    "evolution": [
+      {
+        "id": 1006,
+        "order": 1,
+        "name": "iron-valiant"
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "koraidon",
+    "image": "",
+    "weight": 3030,
+    "height": 25,
+    "types": [
+      "fighting",
+      "dragon"
+    ],
+    "abilities": [
+      "orichalcum-pulse",
+      "orichalcum-pulse"
+    ],
+    "evolution": [
+      {
+        "id": 1007,
+        "order": 1,
+        "name": "koraidon"
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "name": "miraidon",
+    "image": "",
+    "weight": 2400,
+    "height": 35,
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "abilities": [
+      "hadron-engine",
+      "hadron-engine"
+    ],
+    "evolution": [
+      {
+        "id": 1008,
+        "order": 1,
+        "name": "miraidon"
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "name": "walking-wake",
+    "image": "",
+    "weight": 2800,
+    "height": 35,
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "abilities": [
+      "protosynthesis",
+      "protosynthesis"
+    ],
+    "evolution": [
+      {
+        "id": 1009,
+        "order": 1,
+        "name": "walking-wake"
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "name": "iron-leaves",
+    "image": "",
+    "weight": 1250,
+    "height": 15,
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "abilities": [
+      "quark-drive",
+      "quark-drive"
+    ],
+    "evolution": [
+      {
+        "id": 1010,
+        "order": 1,
+        "name": "iron-leaves"
+      }
+    ]
+  }
+]
