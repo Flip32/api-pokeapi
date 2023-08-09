@@ -1,0 +1,12 @@
+node_modules/**/*
+../node_modules/
+**.DS_Store**
+.idea
+yarn-error.log
+*.iml
+*.code-workspace
+*.pem
+*.jks
+*.p8
+*.p12
+*.key
