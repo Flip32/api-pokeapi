@@ -25,7 +25,7 @@ jobs:
           npm run test --if-present
 
       - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v3  # Atualizado para v3
+        uses: actions/upload-artifact@v3
         with:
           name: node-app
           path: .
@@ -39,7 +39,7 @@ jobs:
 
     steps:
       - name: Download artifact from build job
-        uses: actions/download-artifact@v3  # Atualizado para v3
+        uses: actions/download-artifact@v3
         with:
           name: node-app
 
@@ -51,3 +51,6 @@ jobs:
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9120017497A544C4819285D520AA84CA }}
           package: .
+
+      - name: Set BLOB_READ_WRITE_TOKEN
+        run: echo "BLOB_READ_WRITE_TOKEN=${{ secrets.BLOB_READ_WRITE_TOKEN }}" >> $GITHUB_ENV
