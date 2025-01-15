@@ -10,3 +10,4 @@ yarn-error.log
 *.p8
 *.p12
 *.key
+.env
