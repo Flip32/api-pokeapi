@@ -43,8 +43,25 @@ jobs:
         with:
           name: node-app
 
-      - name: Set BLOB_READ_WRITE_TOKEN
-        run: echo "BLOB_READ_WRITE_TOKEN=${{ secrets.BLOB_READ_WRITE_TOKEN }}" >> $GITHUB_ENV
+      # Adicionando configuração do Azure CLI
+      - name: Azure Login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      # Configurando as variáveis de ambiente no App Service
+      - name: Configure Azure App Service Settings
+        uses: azure/appservice-settings@v1
+        with:
+          app-name: 'flip-pokemon-api'
+          slot-name: 'Production'
+          app-settings-json: |
+            [
+              {
+                "name": "BLOB_READ_WRITE_TOKEN",
+                "value": "${{ secrets.BLOB_READ_WRITE_TOKEN }}"
+              }
+            ]
 
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp

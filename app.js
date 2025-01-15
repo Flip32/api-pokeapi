@@ -30,4 +30,6 @@ app.use(routes)
 
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs))
 
+console.log('Tk: ', process.env.BLOB_READ_WRITE_TOKEN)
+
 app.listen(port)
