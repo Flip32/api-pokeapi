@@ -10,5 +10,5 @@ const VercelBlobController = require('./src/app/controllers/VercelBlobController
 
 routes.get('/pokemons/:genID', PokemonController.fetchAllPokemons)
 routes.get('/cached', PokemonController.fetchAllPokemonsCached)
-routes.delete('/img/:imageKey', VercelBlobController.deleteImgVercelBlob)
+routes.delete('/img/:imageKey(*)', VercelBlobController.deleteImgVercelBlob)
 module.exports = routes

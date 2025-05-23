@@ -1,8 +1,6 @@
 const {del} = require('@vercel/blob');
 
 async function deleteImgVercelBlob(req, res) {
-    console.log('========================================')
-    console.log(`ta na rota delete!!`, )
     try {
         const {imageKey} = req.params;
 
