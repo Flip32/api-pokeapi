@@ -25,7 +25,7 @@ jobs:
           npm run test --if-present
 
       - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: node-app
           path: .
@@ -39,17 +39,17 @@ jobs:
 
     steps:
       - name: Download artifact from build job
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: node-app
 
-      # Adicionando configuração do Azure CLI
       - name: Azure Login
         uses: azure/login@v1
         with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
 
-      # Configurando as variáveis de ambiente no App Service
+      # ⚠️ Esta etapa sobrescreve as variáveis de ambiente no App Service
+      # Se quiser alterar manualmente pelo portal, atualize também os GitHub Secrets
       - name: Configure Azure App Service Settings
         uses: azure/appservice-settings@v1
         with:
@@ -63,7 +63,7 @@ jobs:
               }
             ]
 
-      - name: 'Deploy to Azure Web App'
+      - name: Deploy to Azure Web App
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
